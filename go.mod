@@ -1,4 +1,4 @@
-module github.com/bytedance/douyin-openapi-sdk-go
+module github.com/nzy3869/douyin-openapi-sdk-go
 
 go 1.12
 
